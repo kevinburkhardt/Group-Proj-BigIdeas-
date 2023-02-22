@@ -1,1 +1,0 @@
-print(yourName + " says " + otherInput)
