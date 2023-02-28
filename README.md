@@ -5,8 +5,8 @@ Group members: Kevin Burkhardt, Joshua Hellauer
 
 ## Code of Conduct and Licensing
 ---
-This project uses the GNU General Public License v3.0. 
-For more information on the code of conduct, go to CODE_OF_CONDUCT.md
+* This project uses the GNU General Public License v3.0. 
+* For more information on the code of conduct, go to CODE_OF_CONDUCT.md
 ---
 
 ## What the program does:
